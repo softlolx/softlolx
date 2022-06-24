@@ -1,6 +1,6 @@
 ![Alt text](./hello-world.jpg/?raw=true "Title")
 
-<p>Welcome to my page! </br> I'm Konstantin, beginner frontend developer currently learning in Yandex-Practicum! </br> I'm from <img src="https://www.flaticon.com/free-icon/belarus_7665767" width="13"/> <b> Minsk, Belarus </b>, currently living in <b>Saint-Petersburg, Russian</b>. </p>
+<p>Welcome to my page! </br> I'm <br>Konstantin</br>, beginner <br>frontend developer</br> currently studying in Yandex-Practicum! </br> I'm from <b> Minsk, Belarus </b>, currently living in <b>Saint-Petersburg, Russia</b>. </p>
 
 <h3>Things I code with</h3>
 
