@@ -5,6 +5,7 @@
 <h3>Things I work with</h3>
 
 <p>
+<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="padding-right:10px;"/> </a>
   <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
