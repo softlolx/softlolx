@@ -8,11 +8,18 @@
 - I want to become a professional and write clean code.
 - Actively enlarging my portfolio and looking for job as a front-end developer!
 
+<h3>Contacts</h3>
+
+<p>
+<a href="https://t.me/softlolx" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="45" height="45" style="padding-right:10px;"/> </a> &nbsp; &nbsp;
+<a href="mailto:softlolx@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="GMAIL" width="45" height="45" style="padding-right: 100px;"/> </a>  &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/softlolx/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LINKEDIN" width="45" height="45" style="padding-right:10px;"/> </a> &nbsp; &nbsp;
+</p>
 
 <h3>Things I work with</h3>
 
 <p>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="padding-right:10px;"/> </a>
+<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="padding-right:10px;"/>
   <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
