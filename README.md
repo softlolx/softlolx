@@ -2,6 +2,13 @@
 
 <p>Welcome to my page! </br> I'm <b>Konstantin</b>, beginner <b>frontend developer</b> currently studying in Yandex-Practicum! </br> I'm from <b> Minsk, Belarus</b> now living in <b>Saint-Petersburg, Russia</b>. </p>
 
+<h3>About me</h3>
+
+- Learning new technologies. Now completely immersed into React.js
+- I want to become a professional and write clean code.
+- Actively enlarging my portfolio and looking for job as a front-end developer!
+
+
 <h3>Things I work with</h3>
 
 <p>
@@ -14,3 +21,8 @@
  
  
 </p>
+
+
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=softlolx&langs_count=5&theme=tokyonight)]() [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=softlolx&count_private=true&theme=tokyonight&showicons=true)]()
+ 
+ ![Codewars](https://github.r2v.ch/codewars?user=softlolx&theme=dark)
