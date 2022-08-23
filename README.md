@@ -19,18 +19,26 @@
 <h3>Things I work with</h3>
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="padding-right:10px;"/>
-  <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="SASS/SCSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
- 
-
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:15px;" />
+  <img align="left" alt="SASS/SCSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="padding-right:15px;" />
+  <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:15px;" />
+  
+  <img align="left" alt="Webpack" width="40px" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" style="padding-right:15px;" />
+  <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" />
+  <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;" />
 </p>
 
+<br />
 
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=softlolx&langs_count=5&theme=tokyonight)]() [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=softlolx&count_private=true&theme=tokyonight&showicons=true)]()
+<p>
+  
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=softlolx&count_private=true&theme=tokyonight&showicons=true)
+ ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=softlolx&langs_count=5&theme=tokyonight)
+ 
+</p>
+ 
+
  
  ![Codewars](https://github.r2v.ch/codewars?user=softlolx&theme=dark)
+  
+
