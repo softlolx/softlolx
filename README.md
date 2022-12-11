@@ -22,6 +22,7 @@
   <img align="left" alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20221110153201" style="padding-right:15px;" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:15px;" />
   <img align="left" alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="padding-right:15px;" />
+    <img align="left" alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" style="padding-right:15px;" />
   <img align="left" alt="SASS/SCSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="padding-right:15px;" />
   <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:15px;" />
   
