@@ -13,14 +13,21 @@
 
 <div >
   <img  alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20221110153201" />
+  &nbsp;
 <img  alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  />
+  &nbsp;
   <img  alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+  &nbsp;
     <img  alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" />
+  &nbsp;
   <img  alt="SASS/SCSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+  &nbsp;
   <img  alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
+  &nbsp;
   <img  alt="Webpack" width="40px" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" />
+  &nbsp;
   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  &nbsp;
   <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
