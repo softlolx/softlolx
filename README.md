@@ -42,12 +42,7 @@
 
 <h3 align="left">Stats</h3>
 
-<div >
 
- ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=softlolx&langs_count=5&theme=tokyonight)
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=softlolx&count_private=true&theme=tokyonight&showicons=true)
-
- </div>
 
  
  ![Codewars](https://github.r2v.ch/codewars?user=softlolx&theme=dark)
