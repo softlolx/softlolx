@@ -4,9 +4,8 @@
 
 <h3>About me</h3>
 
-- Learning new technologies. Now completely immersed into React.js
-- I want to become a professional and write clean code.
-- Actively enlarging my portfolio and looking for job as a front-end developer!
+- Now working as a FrontEnd React and React Native developer
+- On my way to become a fullstack dev
 
 
 <h3>Things I work with</h3>
