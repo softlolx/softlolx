@@ -1,12 +1,8 @@
-![Alt text](./hello-world.jpg/?raw=true "Title")
-
 <p>Welcome to my page! <br /> I'm <b>Konstantin</b>, <b>Frontend developer</b>!
 
 <h3>About me</h3>
 
 - Now working as a FrontEnd React and React Native developer
-- On my way to become a fullstack dev
-
 
 <h3>Things I work with</h3>
 
@@ -37,13 +33,4 @@
 <a href="mailto:softlolx@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="GMAIL" width="45" height="45" style="padding-right: 100px;"/> </a>  &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/softlolx/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LINKEDIN" width="45" height="45" style="padding-right:10px;"/> </a> &nbsp; &nbsp;
 </p>
-
-
-<h3 align="left">Stats</h3>
-
-
-
- 
- ![Codewars](https://github.r2v.ch/codewars?user=softlolx&theme=dark)
   
-
