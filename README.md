@@ -1,8 +1,6 @@
-<p>Welcome to my page! <br /> I'm <b>Konstantin</b>, <b>Frontend developer</b>!
+<h3>Now working as a FrontEnd Next.js developer</h3>
 
-<h3>About me</h3>
-
-- Now working as a FrontEnd React and React Native developer
+- 
 
 <h3>Things I work with</h3>
 
@@ -14,16 +12,6 @@
   <img  alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
   &nbsp;
     <img  alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" />
-  &nbsp;
-  <img  alt="SASS/SCSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-  &nbsp;
-  <img  alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  &nbsp;
-  <img  alt="Webpack" width="40px" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" />
-  &nbsp;
-  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  &nbsp;
-  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
 <h3>Contacts</h3>
