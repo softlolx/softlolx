@@ -1,17 +1,22 @@
 <h3>Now working as a FrontEnd Next.js developer</h3>
 
-- 
-
 <h3>Things I work with</h3>
 
 <div >
   <img  alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20221110153201" />
   &nbsp;
-<img  alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  />
+  <img  alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  />
+  &nbsp;
+  <img  alt="NextJS" width="40px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"  />
+  &nbsp;
+  <img  alt="React Ntive" width="50px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"  />
   &nbsp;
   <img  alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
   &nbsp;
-    <img  alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" />
+  <img  alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" />
+
+
+ 
 </div>
 
 <h3>Contacts</h3>
